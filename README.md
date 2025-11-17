@@ -189,7 +189,7 @@ To run the project you will need:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your_username/StudyNest.git
+git clone https://github.com/your_username/StudyNest.git(https://github.com/VCWVL/prog7314-poe-ST10381731.git)
 ```
 1. Open the project in Android Studio.
 
