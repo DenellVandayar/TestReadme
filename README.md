@@ -197,7 +197,7 @@ git clone https://github.com/your_username/StudyNest.git
 
 3. Run the app on your selected device or emulator.
 
-🧾 Plagiarism Declaration
+## 🧾 Plagiarism Declaration
 
 We hereby declare that the contents of this project, including all code and documentation, is our own original work except where explicitly referenced.
 
