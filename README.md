@@ -148,4 +148,30 @@ This release introduces four major innovative features: **biometrics, offline mo
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/DenellVandayar/StudyNest.git
+Clone the repository: git clone [https://github.com/your_username/StudyNest.git](https://github.com/VCWVL/prog7314-poe-ST10381731.git)
+```
+1. Open the project in Android Studio.
+
+2. Sync the Gradle files by clicking the "Sync Now" button that appears in the top bar.
+
+3. Run the app on your selected device or emulator.
+
+🧾 Plagiarism Declaration
+
+We hereby declare that the contents of this project, including all code and documentation, is our own original work except where explicitly referenced.
+
+We confirm:
+
+No part of this project was copied without acknowledgment
+
+Only assistance used: Google Gemini Code Assist and ChatGPT, strictly for:
+
+Syntax suggestions
+
+Improving code readability
+
+Generating comments
+
+Improving productivity
+
+We take full responsibility for all logic, structure, and functionality of the codebase.
